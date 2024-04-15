@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\viewmodels\\addprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\viewmodels\\addprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\shared\\edititempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\edititempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\shared\\additempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\additempartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\data\\addprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\data\\addprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|c:\\users\\ajay.k_int1595\\downloads\\dot_net_mvc\\authentication_assignment\\authsystem\\authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3890236C-BFDB-4A11-80A5-CF61599CD6E7}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413175530_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthSystem\\Migrations\\20240413175530_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174442_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthSystem\\Migrations\\20240413174442_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174347_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthSystem\\Migrations\\20240413174347_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:31:01.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:21:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:07:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\ViewModels\\AddProfile.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\ViewModels\\AddProfile.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\ViewModels\\AddProfile.cs",
+              "RelativeToolTip": "AuthSystem\\ViewModels\\AddProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:52:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:59:52.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:34:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:48:35.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddItemPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\AddItemPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\AddItemPartial.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\AddItemPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\AddItemPartial.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T13:42:12.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditItemPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\EditItemPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\EditItemPartial.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\EditItemPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\EditItemPartial.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T19:41:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:12:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:11:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AddProfile.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AddProfile.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AddProfile.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AddProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:11:53.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T16:34:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AuthSystem\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-13T13:46:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T05:18:49.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:39:48.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:25:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T10:43:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-15T10:43:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T10:44:26.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAkwHwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:47:32.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T10:50:03.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T10:29:30.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AuthSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:21:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T09:58:46.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T17:44:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T06:21:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:54:21.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240413174442_Initial_Create.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174442_Initial_Create.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240413174442_Initial_Create.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174442_Initial_Create.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240413174442_Initial_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:44:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240413175530_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413175530_InitialMigration.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240413175530_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413175530_InitialMigration.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240413175530_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:55:31.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240413174347_Initial_Create.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174347_Initial_Create.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240413174347_Initial_Create.cs",
+              "ToolTip": "C:\\Users\\ajay.k_int1595\\Downloads\\Dot_net_mvc\\Authentication_assignment\\AuthSystem\\AuthSystem\\Migrations\\20240413174347_Initial_Create.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240413174347_Initial_Create.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:43:47.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

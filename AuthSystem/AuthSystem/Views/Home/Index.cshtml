@@ -1,0 +1,88 @@
+﻿@model List<AddProfile>
+@using AuthSystem.Areas.Identity.Data
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> userManager ;
+@{
+    ViewData["Title"] = "Home Page";
+}
+@Html.Partial("EditItemPartial")
+@Html.Partial("AddItemPartial")
+
+<table class="box">
+    <thead>
+        <tr>
+            <th><h1>Name</h1></th>
+            <th><h1>Value</h1></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>User Id</td>
+            <td>@ViewData["UserID"]</td>
+
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>@ViewData["FirstName"] @ViewData["LastName"]</td>
+
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>@ViewData["Email"]</td>
+
+        </tr>
+        <tr>
+            <td>LinkedIn URL</td>
+            <td> <a href="@ViewData["LinkedinProfileUrl"]" target="_blank">@ViewData["LinkedinProfileUrl"]</a></td>
+
+        </tr>
+        <tr>
+            <td>Instagram URL</td>
+            <td> <a href="@ViewData["InstagramProfileUrl"]" target="_blank">@ViewData["InstagramProfileUrl"]</a></td>
+
+        </tr>
+        <tr>
+            <td>Facebook URL</td>
+            <td> <a href="@ViewData["FacebookProfileUrl"]" target="_blank">@ViewData["FacebookProfileUrl"]</a></td>
+
+        </tr>
+    </tbody>
+</table>
+
+<table class="box">
+    <thead>
+        <tr>
+            <th><h1>Profile Name</h1></th>
+            <th><h1>Profile URL</h1></th>
+            <th><h1>Action</h1></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var newProfile in Model)
+        {
+            <tr>
+                <td>@newProfile.ProfileName</td>
+                <td>@newProfile.ProfileUrl</td>
+                <td>
+                    <div class="flex-container">
+                        <div>
+                            <button class="button-55" onclick="EditProfile(this)" data-item-id="@newProfile.Id">Edit</button>
+                        </div>
+                        <div>
+                            <form id="deleteForm-@newProfile.Id" method="post" asp-action="Delete" asp-controller="Home">
+                                <input type="hidden" name="id" value="@newProfile.Id" />
+                                <button type="submit" class="button-55">Delete</button>
+                            </form>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        }
+        <button class="button-55 add-btn" onclick="AddSocialProfile()">Add New Social Media Profile</button>
+    </tbody>
+</table>
+
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
